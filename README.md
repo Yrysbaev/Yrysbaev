@@ -2,6 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Yrysbaev/count.svg" alt="Visitor's Count" />
 </div>
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -12,6 +13,7 @@
 </p>
 
 <hr>
+
 ## ⚡️ Stats
 
 <br>
